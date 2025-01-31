@@ -13,7 +13,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonardo.AI]([https://www.midjourney.com/app/](https://app.leonardo.ai/?via=BRhiheaifree))
+- [Leonardo.AI](https://www.midjourney.com/app/](https://app.leonardo.ai/?via=BRhiheaifree)](https://app.leonardo.ai/image-generation )
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
