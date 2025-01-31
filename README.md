@@ -13,7 +13,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonar.AI]([https://www.midjourney.com/app/](https://app.leonardo.ai/?via=BRhiheaifree))
+- [Leonardo.AI]([https://www.midjourney.com/app/](https://app.leonardo.ai/?via=BRhiheaifree))
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -36,7 +36,7 @@ Leonard.AI：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Leonard.AI e repositório CAIXA
+- Imagens geradas via Leonardo.AI e repositório CAIXA
 
 
 ## 👨‍💻 Expert
