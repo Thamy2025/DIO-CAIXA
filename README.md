@@ -42,7 +42,8 @@ Leonard.AI：
 ## 👨‍💻 Expert
 
 <p>
-|THAMY KANNAH|    <a href="https://www.instagram.com/thamykannah.exe/">
+THAMY KANNAH ;)
+ <a href="https://www.instagram.com/thamykannah.exe/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
